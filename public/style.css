@@ -1,0 +1,25 @@
+body{
+    margin-left: 50px;
+    margin-top: 10px;
+    margin-right: 1200px;
+    border-radius: 10px;
+}
+
+.bt1{
+    margin-left: 20px;
+    margin-bottom: 30px;
+}
+.chat{
+    background-color: aqua;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.in_msg{
+    font-size: 150%;
+    font-weight: 600;
+    background: #096375;
+    color: aliceblue;
+    padding: 10px;
+    border-radius: 10px;
+}
